@@ -16,7 +16,7 @@
 - [Oh My ZSH](https://github.com/ohmyzsh/ohmyzsh/)
 - [powerlevel10k](https://github.com/romkatv/powerlevel10k)
 - [Alacritty](https://github.com/alacritty/alacritty)
-- Ubuntu
+- [Ubuntu](https://ubuntu.com/download/server)
 
 # Uni Projects
 
