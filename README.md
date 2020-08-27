@@ -21,7 +21,7 @@
 - [Alacritty](https://github.com/alacritty/alacritty)
 - [tmux](https://github.com/tmux/tmux)
 - [Zsh](https://en.wikipedia.org/wiki/Z_shell)
-- [Oh My ZSH](https://github.com/ohmyzsh/ohmyzsh/)
+- [Oh My Zsh](https://github.com/ohmyzsh/ohmyzsh/)
 - [powerlevel10k](https://github.com/romkatv/powerlevel10k)
 - [Vim](https://www.vim.org/)
 - [ALE](https://github.com/dense-analysis/ale)
