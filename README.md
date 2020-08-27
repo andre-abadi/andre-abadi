@@ -9,7 +9,7 @@
 
 # Uses
 
-- [Ubuntu](https://ubuntu.com/download/server)
+
 - [Alacritty](https://github.com/alacritty/alacritty)
 - [tmux](https://github.com/tmux/tmux)
 - [Zsh](https://en.wikipedia.org/wiki/Z_shell)
@@ -17,6 +17,8 @@
 - [powerlevel10k](https://github.com/romkatv/powerlevel10k)
 - [Vim](https://www.vim.org/)
 - [ALE](https://github.com/dense-analysis/ale)
+- [Ubuntu](https://ubuntu.com/download/server)
+- [Docker](https://www.docker.com/)
 
 # Uni Projects
 
