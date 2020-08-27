@@ -7,8 +7,16 @@
 - [Blog](https://andre-abadi.github.io/)
 - [dotfiles](https://github.com/andre-abadi/dotfiles)
 
-# Uses
+# Uni Projects
 
+- [Optometer](https://github.com/andre-abadi/ECU_CSG3303_Optometer) ESRGAN license plate *enhancer*
+- [ScroungeCoin](https://github.com/andre-abadi/ECU_CSI2108_Cryptocurrency) rudimentary cryptocurrency/blockchain
+- [File Encryptor](https://github.com/andre-abadi/ECU_CSI2108_SymmetricEncryption) basic AES-CBC file encryptor/decryptor
+- [HeapSort](https://github.com/andre-abadi/Curtin_ST152_HeapSort) home-made heap sort implementation
+- [EquationSolver](https://github.com/andre-abadi/Curtin_ST152_EquationSolver) basic arithmetic solver
+- [WordFrequency](https://github.com/andre-abadi/Curtin_ST152_WordFrequency) count of words in file using home-made linked lists and binary tree
+
+# Uses
 
 - [Alacritty](https://github.com/alacritty/alacritty)
 - [tmux](https://github.com/tmux/tmux)
@@ -19,12 +27,3 @@
 - [ALE](https://github.com/dense-analysis/ale)
 - [Ubuntu](https://ubuntu.com/download/server)
 - [Docker](https://www.docker.com/)
-
-# Uni Projects
-
-- [Optometer](https://github.com/andre-abadi/ECU_CSG3303_Optometer) ESRGAN license plate *enhancer*
-- [ScroungeCoin](https://github.com/andre-abadi/ECU_CSI2108_Cryptocurrency) rudimentary cryptocurrency/blockchain
-- [File Encryptor](https://github.com/andre-abadi/ECU_CSI2108_SymmetricEncryption) basic AES-CBC file encryptor/decryptor
-- [HeapSort](https://github.com/andre-abadi/Curtin_ST152_HeapSort) home-made heap sort implementation
-- [EquationSolver](https://github.com/andre-abadi/Curtin_ST152_EquationSolver) basic arithmetic solver
-- [WordFrequency](https://github.com/andre-abadi/Curtin_ST152_WordFrequency) count of words in file using home-made linked lists and binary tree
