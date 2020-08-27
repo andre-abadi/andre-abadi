@@ -25,5 +25,3 @@
 - [powerlevel10k](https://github.com/romkatv/powerlevel10k)
 - [Vim](https://www.vim.org/)
 - [ALE](https://github.com/dense-analysis/ale)
-- [Ubuntu](https://ubuntu.com/download/server)
-- [Docker](https://www.docker.com/)
