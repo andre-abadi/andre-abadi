@@ -9,20 +9,20 @@
 
 # Uses
 
-- [Vim](https://www.vim.org/)
-- [ALE](https://github.com/dense-analysis/ale)
+- [Ubuntu](https://ubuntu.com/download/server)
+- [Alacritty](https://github.com/alacritty/alacritty)
 - [tmux](https://github.com/tmux/tmux)
 - [Zsh](https://en.wikipedia.org/wiki/Z_shell)
 - [Oh My ZSH](https://github.com/ohmyzsh/ohmyzsh/)
 - [powerlevel10k](https://github.com/romkatv/powerlevel10k)
-- [Alacritty](https://github.com/alacritty/alacritty)
-- [Ubuntu](https://ubuntu.com/download/server)
+- [Vim](https://www.vim.org/)
+- [ALE](https://github.com/dense-analysis/ale)
 
 # Uni Projects
 
 - [Optometer](https://github.com/andre-abadi/ECU_CSG3303_Optometer) ESRGAN license plate *enhancer*
 - [ScroungeCoin](https://github.com/andre-abadi/ECU_CSI2108_Cryptocurrency) rudimentary cryptocurrency/blockchain
-- [File Encryptor](https://github.com/andre-abadi/ECU_CSI2108_SymmetricEncryption) basic AES-CBC file encryption/decryption
-- [HeapSort](https://github.com/andre-abadi/Curtin_ST152_HeapSort) homebrew heap sort implementation
+- [File Encryptor](https://github.com/andre-abadi/ECU_CSI2108_SymmetricEncryption) basic AES-CBC file encryptor/decryptor
+- [HeapSort](https://github.com/andre-abadi/Curtin_ST152_HeapSort) home-made heap sort implementation
 - [EquationSolver](https://github.com/andre-abadi/Curtin_ST152_EquationSolver) basic arithmetic solver
-- [WordFrequency](https://github.com/andre-abadi/Curtin_ST152_WordFrequency) count of words in file using homebrew linked lists and binary tree
+- [WordFrequency](https://github.com/andre-abadi/Curtin_ST152_WordFrequency) count of words in file using home-made linked lists and binary tree
