@@ -2,7 +2,7 @@
 
 # Recent Work
 
-- [Peregrinus](https://github.com/andre-abadi/peregrinus) NUIX discover export converter
+- [Peregrinus](https://github.com/andre-abadi/peregrinus) [NUIX Discover (Ringtail)](https://www.ringtail.com/) export converter
 - [Curiosum](https://github.com/andre-abadi/curiosum) RTSP audio recorder/manager/analyzer
 - [Blog](https://andre-abadi.github.io/)
 - [dotfiles](https://github.com/andre-abadi/dotfiles)
