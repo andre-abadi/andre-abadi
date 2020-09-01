@@ -1,5 +1,11 @@
 ![](https://img.shields.io/badge/codes%20in-python3-green) ![](https://img.shields.io/badge/remembers%20some-java-blueviolet) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://github.com/andre-abadi/andre-abadi/blob/master/LICENSE)
 
+# Interests
+
+- ML/computer vision/single image super resolution
+- Crypto/blockchain
+- Virtualisation/Docker
+
 # Recent Work
 
 - [peregrinus](https://github.com/andre-abadi/peregrinus) export converter for [NUIX Discover (Ringtail)](https://www.ringtail.com/) 
@@ -25,3 +31,4 @@
 - [powerlevel10k](https://github.com/romkatv/powerlevel10k)
 - [Vim](https://www.vim.org/)
 - [ALE](https://github.com/dense-analysis/ale)
+- [Black](https://github.com/psf/black)
