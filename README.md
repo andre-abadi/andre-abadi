@@ -1,4 +1,4 @@
-![](https://img.shields.io/badge/codes%20in-python3-green) ![](https://img.shields.io/badge/remembers%20some-java-blueviolet) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://github.com/andre-abadi/andre-abadi/blob/master/LICENSE)
+![](https://img.shields.io/badge/scripts%20in-PowerShell-black)![](https://img.shields.io/badge/codes%20in-python3-green) ![](https://img.shields.io/badge/remembers%20some-java-blueviolet) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://github.com/andre-abadi/andre-abadi/blob/master/LICENSE)
 
 # Interests
 
