@@ -24,7 +24,8 @@
 
 # Uses
 
-- [Alacritty](https://github.com/alacritty/alacritty)
+- [Microsoft Terminal](https://github.com/Microsoft/Terminal)
+- [PowerShell](https://github.com/powershell/powershell)
 - [tmux](https://github.com/tmux/tmux)
 - [Zsh](https://en.wikipedia.org/wiki/Z_shell)
 - [Oh My Zsh](https://github.com/ohmyzsh/ohmyzsh/)
