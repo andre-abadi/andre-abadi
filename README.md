@@ -17,7 +17,7 @@
 - [curiosum](https://github.com/andre-abadi/curiosum) RTSP audio recorder/manager/analyzer
 - [dotfiles](https://github.com/andre-abadi/dotfiles)
 
-# Uni Projects
+# Old Uni Projects
 
 - [Optometer](https://github.com/andre-abadi/ECU_CSG3303_Optometer) ESRGAN license plate *enhancer*
 - [ScroungeCoin](https://github.com/andre-abadi/ECU_CSI2108_Cryptocurrency) rudimentary cryptocurrency/blockchain
