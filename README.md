@@ -5,6 +5,7 @@
 - ML/computer vision/single image super resolution
 - Crypto/blockchain
 - Virtualisation/Docker
+- PowerShell Scripting
 
 # eDiscovery/Recent Work
 
