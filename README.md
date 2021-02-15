@@ -16,7 +16,7 @@
 # Other Work
 
 - [curiosum](https://github.com/andre-abadi/curiosum) RTSP audio recorder/manager/analyzer
-- [dotfiles](https://github.com/andre-abadi/dotfiles)
+- [dotfiles](https://github.com/andre-abadi/dotfiles) various linux configurations and environment customisations
 
 # Old Uni Projects
 
