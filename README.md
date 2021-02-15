@@ -7,14 +7,14 @@
 - Virtualisation/Docker
 - PowerShell Scripting
 
-# eDiscovery/Recent Work
+# eDiscovery and Recent Work
 
 - [ps-bates-enumerator](https://github.com/andre-abadi/ps-bates-enumerator) PowerShell eDiscovery Automatic Bates File Enumerator
 - [ps-folderizer](https://github.com/andre-abadi/ps-folderizer) PowerShell eDiscovery Automatic Folderizer for [Ringtail/NUIX Discover](https://www.ringtail.com/) Imports
+- [peregrinus](https://github.com/andre-abadi/peregrinus) Python3/Pandas export converter for [NUIX Discover (Ringtail)](https://www.ringtail.com/) 
 
 # Other Work
 
-- [peregrinus](https://github.com/andre-abadi/peregrinus) export converter for [NUIX Discover (Ringtail)](https://www.ringtail.com/) 
 - [curiosum](https://github.com/andre-abadi/curiosum) RTSP audio recorder/manager/analyzer
 - [dotfiles](https://github.com/andre-abadi/dotfiles)
 
