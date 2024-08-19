@@ -14,6 +14,8 @@
 
 # [eDiscovery](https://en.wikipedia.org/wiki/Electronic_discovery) and Recent Work
 
+- [oal](https://github.com/andre-abadi/oal) an open source implementation of e-discovery active learning.
+- [enron_edisco](https://github.com/andre-abadi/enron_edisco) Labelled Enron dataset formatted for easy ingestion to e-discovery systems.
 - [ps-bates-enumerator](https://github.com/andre-abadi/ps-bates-enumerator) PowerShell eDiscovery Automatic Bates File Enumerator
 - [ps-folderizer](https://github.com/andre-abadi/ps-folderizer) PowerShell eDiscovery Automatic Folderizer for [Ringtail/NUIX Discover](https://www.ringtail.com/) Imports
 - [peregrinus](https://github.com/andre-abadi/peregrinus) Python3/Pandas export converter for [NUIX Discover (Ringtail)](https://www.ringtail.com/) 
