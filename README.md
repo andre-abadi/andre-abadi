@@ -1,20 +1,7 @@
-![](https://img.shields.io/badge/scripts%20in-PowerShell-black)![](https://img.shields.io/badge/codes%20in-python3-green) ![](https://img.shields.io/badge/remembers%20some-java-blueviolet) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://github.com/andre-abadi/andre-abadi/blob/master/LICENSE)
-
-# My Blog
-
-- [Entropy Reduction - Personal log of yet another digital native.](https://andre-abadi.github.io/)
-  - [*(Source Repository)*](https://github.com/andre-abadi/andre-abadi.github.io)
-
-# Interests
-
-- ML/computer vision/single image super resolution
-- Crypto/blockchain
-- Virtualisation/Docker
-- PowerShell Scripting
-
 # [eDiscovery](https://en.wikipedia.org/wiki/Electronic_discovery) and Recent Work
 
 - [oal](https://github.com/andre-abadi/oal) an open source implementation of e-discovery active learning.
+- [auto_linker](https://github.com/andre-abadi/auto_linker) a performant automatic excel relative hyperlink insertion tool tested with over 100k files.
 - [enron_edisco](https://github.com/andre-abadi/enron_edisco) Labelled Enron dataset formatted for easy ingestion to e-discovery systems.
 - [ps-bates-enumerator](https://github.com/andre-abadi/ps-bates-enumerator) PowerShell eDiscovery Automatic Bates File Enumerator
 - [ps-folderizer](https://github.com/andre-abadi/ps-folderizer) PowerShell eDiscovery Automatic Folderizer for [Ringtail/NUIX Discover](https://www.ringtail.com/) Imports
@@ -25,6 +12,11 @@
 - [curiosum](https://github.com/andre-abadi/curiosum) RTSP audio recorder/manager/analyzer
 - [dotfiles](https://github.com/andre-abadi/dotfiles) various linux configurations and environment customisations
 
+# My Blog
+
+- [Entropy Reduction - Personal log of yet another digital native.](https://andre-abadi.github.io/)
+  - [*(Source Repository)*](https://github.com/andre-abadi/andre-abadi.github.io)
+
 # Old Uni Projects
 
 - [Optometer](https://github.com/andre-abadi/ECU_CSG3303_Optometer) ESRGAN license plate *enhancer*
@@ -33,15 +25,3 @@
 - [HeapSort](https://github.com/andre-abadi/Curtin_ST152_HeapSort) home-made heap sort implementation
 - [EquationSolver](https://github.com/andre-abadi/Curtin_ST152_EquationSolver) basic arithmetic solver
 - [WordFrequency](https://github.com/andre-abadi/Curtin_ST152_WordFrequency) count of words in file using home-made linked lists and binary tree
-
-# Uses
-
-- [Microsoft Terminal](https://github.com/Microsoft/Terminal)
-- [PowerShell](https://github.com/powershell/powershell)
-- [tmux](https://github.com/tmux/tmux)
-- [Zsh](https://en.wikipedia.org/wiki/Z_shell)
-- [Oh My Zsh](https://github.com/ohmyzsh/ohmyzsh/)
-- [powerlevel10k](https://github.com/romkatv/powerlevel10k)
-- [Vim](https://www.vim.org/)
-- [ALE](https://github.com/dense-analysis/ale)
-- [Black](https://github.com/psf/black)
